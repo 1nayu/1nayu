@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1nayu&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nayu&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **1nayu/1nayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
