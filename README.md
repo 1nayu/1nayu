@@ -1,8 +1,10 @@
-### Hi there 👋
+### こんにちは!👋
+<p align="left"> <a href="https://twitter.com/1nayu" target="blank"><img src="https://img.shields.io/twitter/follow/1nayu?logo=twitter&style=for-the-badge" alt="1nayu" /></a> </p>
+I'm Yusuke Nakamura / Nayu, MotionGraphics / Graphic / UI/UX designer in Japan🇯🇵
+
+🎨 My design works : [https://nayuwork.com](https://nayuwork.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1nayu&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nayu&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **1nayu/1nayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
