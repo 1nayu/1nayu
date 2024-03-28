@@ -2,12 +2,12 @@
 <h3 align="left">I'm Yusuke Nakamura / Nayu, MotionGraphics / Graphic / UI/UX designer in Japan🇯🇵</h3>
 <p align="left">🎨 My design works : [https://nayuwork.com](https://nayuwork.com)</p>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=ae,ps" />
   </a>
 </p>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=gamemakerstudio,ts,nextjs,materialui,cpp" />
   </a>
 </p>
