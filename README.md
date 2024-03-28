@@ -1,10 +1,19 @@
-### こんにちは!👋
-<p align="left"> <a href="https://twitter.com/1nayu" target="blank"><img src="https://img.shields.io/twitter/follow/1nayu?logo=twitter&style=for-the-badge" alt="1nayu" /></a> </p>
-I'm Yusuke Nakamura / Nayu, MotionGraphics / Graphic / UI/UX designer in Japan🇯🇵
-
-🎨 My design works : [https://nayuwork.com](https://nayuwork.com)
+<h1 align="left">こんにちは!👋</h1>
+<h3 align="left">I'm Yusuke Nakamura / Nayu, MotionGraphics / Graphic / UI/UX designer in Japan🇯🇵</h3>
+<p align="left">🎨 My design works : [https://nayuwork.com](https://nayuwork.com)</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,ps" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gamemakerstudio,ts,nextjs,materialui,cpp" />
+  </a>
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1nayu&show_icons=true)
+
 
 <!--
 **1nayu/1nayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
