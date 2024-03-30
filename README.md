@@ -3,7 +3,7 @@
 <p align="left">🎨 My design works : https://nayuwork.com</p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1nayu)](https://git.io/streak-stats)
 
 
 <!--
