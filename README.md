@@ -1,9 +1,9 @@
-<h1 align="left">こんにちは!👋</h1>
-<h3 align="left">I'm Yusuke Nakamura / Nayu, MotionGraphics / Graphic / UI/UX designer in Japan🇯🇵</h3>
-<p align="left">🎨 My design works : https://nayuwork.com</p>
+<h1 align="center">こんにちは!👋</h1>
+<h3 align="center">I'm Yusuke Nakamura / Nayu, MotionGraphics / Graphic / UI/UX designer in Japan🇯🇵</h3>
+<p align="center">🎨 My design works : https://nayuwork.com</p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=1nayu)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=1nayu&theme=dark&hide_border=true&border_radius=15&card_width=1000" alt="GitHub Streak" /></a>
 
 
 <!--
