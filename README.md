@@ -4,6 +4,7 @@
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=1nayu&theme=dark&hide_border=true&border_radius=15&card_width=1000" alt="GitHub Streak" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nayu&theme=dark&hide_border=true&border_radius=15&card_width=1000")](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
