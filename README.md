@@ -1,5 +1,6 @@
 <h1 align="center">こんにちは!👋</h1>
-<h3 align="center">I'm Yusuke Nakamura / Nayu, MotionGraphics / Graphic / UI/UX designer in Japan🇯🇵</h3>
+<h3 align="center">I'm Yusuke Nakamura / Nayu, MotionGraphics 🎥 / Graphic 🎨 / UI/UX 📱 designer in Japan🇯🇵</h3>
+<p align="center">NIT, Toyama Coleege Mechanical Engineering</p>
 <p align="center">🎨 My design works : https://nayuwork.com</p>
 
 
