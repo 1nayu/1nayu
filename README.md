@@ -1,9 +1,7 @@
 <h1 align="center">🦀</h1>
 <h3 align="center">I'm Yusuke Nakamura / Nayu, MotionGraphics 🎥 / Graphic 🎨 / UI/UX 📱 designer in Japan🇯🇵</h3>
 <p align="center">Japan NIT, Toyama Coleege (KOSEN) Mechanical Engineering</p>
-<h3 align="center">中村 祐輔 または なゆと呼ばれていて、モーショングラフィックス 🎥 / グラフィック 🎨 / UI/UX 📱 のデザインをしている日本人です🇯🇵</h3>
-<p align="center">富山高等専門学校 機械システム工学科</p>
-<p align="center">🎨 My design works : "The website is currently temporarily closed"</p>
+<p align="center">🎨 My design works : https://nayuwork.com</p>
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=1nayu&theme=dark&hide_border=true&border_radius=15&card_width=1000" alt="GitHub Streak" /></a>
