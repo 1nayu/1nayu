@@ -1,6 +1,6 @@
 <h1 align="center">🦀</h1>
 <h3 align="center">I'm Yusuke Nakamura / Nayu, MotionGraphics 🎥 / Graphic 🎨 / UI/UX 📱 designer in Japan🇯🇵</h3>
-<p align="center">Japan NIT, Toyama Coleege (KOSEN) Mechanical Engineering</p>
+<p align="center">Japan NIT, Toyama College (KOSEN) Mechanical Engineering</p>
 <p align="center">🎨 My design works : https://nayuwork.com</p>
 
 
